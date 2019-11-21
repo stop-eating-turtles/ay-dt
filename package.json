@@ -1,0 +1,27 @@
+{
+  "name": "ay-dt",
+  "version": "1.0.0",
+  "author": "stop-eating-turtles",
+  "description": "ay-dt",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "main": "index.js",
+  "keywords": [
+    "ay-dt"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stop-eating-turtles/ay-dt.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "possibly infinite": true,
+    "url": "https://github.com/stop-eating-turtles/ay-dt/url"
+  },
+  "homepage": "https://github.com/stop-eating-turtles/ay-dt",
+  "dependencies": {
+    "push-and-pop": "^1.0.0",
+    "rename-fn": "^1.0.0"
+  }
+}

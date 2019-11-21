@@ -1,0 +1,1 @@
+const {deepStrictEqual: equal} = require ("assert");
